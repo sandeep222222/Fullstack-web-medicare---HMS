@@ -108,14 +108,6 @@ The system follows a **three-tier architecture**:
 
 ---
 
-## Challenges Faced
-
-- Preventing multiple users from booking the same appointment slot → solved with backend slot validation.
-- Maintaining real-time synchronization of doctor availability.
-- Ensuring responsive design across devices using Bootstrap.
-
----
-
 ## Future Enhancements
 
 - Online payment gateway.
@@ -130,7 +122,6 @@ The system follows a **three-tier architecture**:
 
 - **Frontend**: React.js, HTML, CSS, JavaScript, Bootstrap  
 - **Backend**: Node.js, Express.js  
-- **Database**: MongoDB  
-- **Authentication & Security**: JWT, bcrypt  
-- **Deployment**: Render / Vercel / Heroku
+- **Database**: MongoDB   
+- **Deployment**: Vercel 
 
