@@ -134,10 +134,3 @@ The system follows a **three-tier architecture**:
 - **Authentication & Security**: JWT, bcrypt  
 - **Deployment**: Render / Vercel / Heroku
 
----
-
-## How to Run Locally
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/MediCare-Site.git
